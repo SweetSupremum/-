@@ -1,4 +1,4 @@
-package work;
+package politeh.works.work_third;
 
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.BenchmarkMode;

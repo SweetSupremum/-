@@ -1,4 +1,4 @@
-package work;
+package politeh.works.work_third;
 
 import java.time.Duration;
 import java.time.LocalTime;

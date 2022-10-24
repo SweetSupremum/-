@@ -1,4 +1,4 @@
-package work;
+package politeh.works.work_third;
 
 /**
  * Третья лаба бенчмааааркииии
